@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May  2 22:40:12 2023
+
+@author: Hp
+"""
+
 """Importamos nuestros módulos creados con anterioridad para que el controlador las una"""
 from Robot import Robot
 from vista import menu, get_rotation, get_elevation, get_length
