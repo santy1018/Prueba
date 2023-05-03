@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May  2 22:18:23 2023
+
+@author: Hp
+"""
+
 #Creamos la clase modelo que en este caso se llama Robot
 class Robot:
 
