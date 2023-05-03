@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May  2 23:20:38 2023
+
+@author: Hp
+"""
+
 from controlador import Controlador
 
 if __name__ == "__main__":
