@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed May  2 23:07:42 2023
+
+@author: Hp
+"""
+
 """ desplegamos un menú de opciones para que el usuario vea los grados de libertad
 que viene incluido el robot"""
 def menu(): 
